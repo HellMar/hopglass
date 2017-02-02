@@ -1,5 +1,6 @@
 {
   "dataPath": "https://map.ffdus.de/data/",
+  "dataSufix": "?filter=site&value=ffmsd01",
   "siteName": "Freifunk Flingern",
   "mapSigmaScale": 0.5,
   "showContact": true,  
